@@ -1,0 +1,20 @@
+# robotstxt.org/
+
+User-agent: *
+Sitemap: https://www.canvera.com/sitemap/sitemap.xml
+
+Disallow: https://sites.canvera.com/
+Disallow: http://sites.canvera.com/
+Disallow: https://products.canvera.com/
+Disallow: https://staging.canvera.com/blog/
+Disallow: http://yougraphy-blog.canvera.com/
+Disallow: /blog/wp-json/wp/v2/posts/*
+Disallow: /products/cart
+Disallow: /products/dashboard/orders
+Disallow: /web/99600846/*
+Disallow: /club-canvera/
+Noindex: /genuinity-web/
+Noindex: https://genuinity.canvera.com/genuinity-web/
+Noindex: https://www.canvera.com/products/errors/404/
+
+Noindex: https://canvera.com/products/f742958698aa4c3b8d6f05769e4980c2

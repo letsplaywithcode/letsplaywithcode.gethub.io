@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!DOCTYPE html>
+
+
+
+
+
+
+
+
+<html class=no-js> <head> <base href=""> <meta charset=utf-8> <meta http-equiv=X-UA-Compatible content="IE=edge"> <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"> <meta name=keywords content="About us, Leaders , Printed products, Photobook albums"> <meta name=Description content="Sign in to your Canvera account. Make payment, view photobook pricelist, download useful tools and lot more."> <meta http-equiv=pragma content="no-cache"> <meta http-equiv=cache-control content="no-cache"> <meta http-equiv=expires content="0"> <meta http-equiv=imagetoolbar content="no"> <meta http-equiv=Content-Type content="text/html; UTF-8"> <meta property=og:title content="Canvera - Preserving Memories"> <meta property=og:type content="article"> <meta property=og:image content="http://www.canvera.com/static/v2/images/logo.png"> <meta property=og:url content="http://www.canvera.com"> <meta property=og:description content="Canvera is an online photography company providing mass customized printed products and e-commerce solutions to professional photographers."> <meta property=og:site_name content="Canvera"> <meta property=og:video content="http://youtu.be/eTn60TrvR94"> <meta property=fb:app_id content="602645559753208"> <meta itemprop=name content="Canvera - Preserving Memories"> <meta itemprop=description content="Canvera is an online photography company providing mass customized printed products and e-commerce solutions to professional photographers."> <meta itemprop=image content="http://www.canvera.com/static/v2/images/logo.png"> <meta itemprop=creator content=Canvera> <meta itemprop=copyrightHolder content=Canvera> <meta itemprop=keywords name=keywords content="Photobook, Wedding Album, Photography, Wedding Photography, Wedding Photography India, Photobook India, Online Printing, Digital Photo, Photo Prints, Wedding Album Printing Wedding Websites India, Custom Wedding Album, Personalized Photo Gifts, Personalized Calendars India, Photographers Portfolio Websites, E-commerce websites, Event websites, Indian Wedding Photography, Coffee Table Books, Custom Coffee Table Books India, Leather Photobooks India, Photo Books India"> <meta content=summary name=twitter:card> <meta content=@canvera name=twitter:site> <meta content="Canvera - Preserving Memories!" name=twitter:title> <meta content="Canvera is a easy way to discover photographers. " name=twitter:description> <meta content=@canvera name=twitter:creator> <title>Partner Login</title> <link rel="shortcut icon" href="favicon.ico"> <link href=https://www.canvera.com/images/apple-touch-icon-57x57.png sizes=57x57 rel=apple-touch-icon> <link href=https://www.canvera.com/images/apple-touch-icon-72x72.png sizes=72x72 rel=apple-touch-icon> <link href=https://www.canvera.com/images/apple-touch-icon-114x114.png sizes=114x114 rel=apple-touch-icon> <link href=https://www.canvera.com/images/apple-touch-icon-144x144.png sizes=144x144 rel=apple-touch-icon> <link href=https://www.canvera.com/images/apple-touch-icon-57x57.png rel=apple-touch-icon> <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel=stylesheet type=text/css> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel=stylesheet href="https://www.canvera.com/payment-styles-vendor"> <link rel=stylesheet href="https://www.canvera.com/payment-styles-main">  <body id=signin class=new-design> 
+    <!-- Header template --> 
+    <header id=header>
+      <nav class="navbar navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">
+                <img alt="Canvera.com | Home" title="Canvera" src="https://www.canvera.com/images/logo.png" >
+            </a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-left">
+              <li class="yougraphy"><a href="https://www.canvera.com/products">YOUGRAPHY</a></li>
+              <li class="pro-dropdown">
+                <a class="pro-dropdown-link" href="pro-products">
+                  <span>PRO - PHOTOBOOKS</span>
+                  <img class="arr-black pro-arr" alt="arrow" title="" src="https://www.canvera.com/images/arrow-down.png">
+                  <img class="arr-white pro-arr" alt="arrow" title="" src="https://www.canvera.com/images/arrow-down-white.png">
+                </a>
+                <ul class="pro-dropdown-menu">
+                  <li class="sh-pro"><a href="pro-photobooks/sh-pro-wedding-albums">SH Pro Photobooks</a></li>
+                  <li class="indi-pro"><a href="pro-photobooks/indi-pro-wedding-albums">Indi Pro Photobooks</a></li>
+                  <li class="inkjet"><a href="pro-photobooks/superbooks-wedding-albums">Superbooks</a></li>
+                </ul>
+              </li>
+              <li><a href="https://photographers.canvera.com" target="_blank">FIND A PHOTOGRAPHER</a></li>
+            </ul>
+
+            <!-- SOF pre login header -->
+            <div class="header-dropdown pull-right hidden-xs">
+              <div class="header-dropdown-link login-dropdown-link">
+                ARE YOU A PHOTOGRAPHER ? 
+                <img class="arr-black header-arr" alt="arrow" title="" src="https://www.canvera.com/images/arrow-down.png">
+                <img class="arr-white header-arr" alt="arrow" title="" src="https://www.canvera.com/images/arrow-down-white.png">
+              </div>
+              <ul class="header-dropdown-menu">
+                <li><a href="partner-login">Log In</a></li>
+                <li class="menu-divide"><a href="login-and-order-photobook">Order Photobook</a></li>
+                <li><a href="login-and-make-payment">Make Payment</a></li>
+                <li><a href="login-and-download">Downloads</a></li>
+                <li class="menu-divide"><a href="business-solutions-for-professional-photographer">Our Offerings</a></li>
+              </ul>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="visible-xs photographer"><a href="business-solutions-for-professional-photographer">ARE YOU A PHOTOGRAPHER ?</a></li>
+              <li class="blog"><a href="https://www.canvera.com/blog">BLOG</a></li>				
+              <li class="hidden-xs contact"><a href="contact">CONTACT US</a></li>
+              <li class="visible-xs contact"><a href="contact">CONTACT US</a></li>
+              <li class="visible-xs photobook"><a href="login-and-order-photobook">ORDER PHOTOBOOK</a></li>
+              <li class="visible-xs payment"><a href="login-and-make-payment">PAY NOW</a></li>
+              <li class="visible-xs signin"><a href="partner-login">LOGIN</a></li>
+            </ul>
+            <!-- EOF pre login header -->
+
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+<div id=signin-content class=signin-content> <section class=canvera-signin> <div class=container>  <div class="tab-box clearfix"> <div class=tab-box-left> <ul class="nav nav-tabs"> <li class=active><a data-toggle=tab href="https://cas.canvera.com/#tab1">SIGN IN</a></li>  </ul> <div class=tab-content> <div id=tab1 class="tab-pane fade in active">
+<form id="loginForm" class="photo-form" action="make-payment" method="post" onsubmit="gaTrackLoginEvent('https://www.canvera.com/authenticate/login/payments');PAGE.handleLoginFormSubmit();">
+
+   
+    
+    
+    
+
+    <div id="emailIdDiv" class=form-group>
+    <label for="username" class="control-label">Email</label>
+
+  <input type="hidden" name="lt" value="e3s1" />
+  <input type="hidden" name="_eventId" value="submit"/>
+
+  
+  
+     
+     <input id="username" name="username" autofocus="true" placeholder="Enter email" class="form-control" required="true" type="email" accesskey="n" type="text" value="" autocomplete="on"/>
+  
+  
+
+  </div>
+  <div id="passwordDiv" class=form-group>
+    <label for="inputPassword" class="control-label">Password</label>
+    
+    <input id="inputPassword" name="password" placeHolder="Password" class="form-control" required="true" accesskey="p" type="password" value="" autocomplete="off"/>
+  </div>
+  <div id="signinButtonDiv" class="btn-container  signin-btn"> <button type=submit class="btn form-btn">Sign In</button> <a href="https://www.canvera.com/forgot-password" class="forgot-link pull-right">forgot your password ?</a> </div>
+
+</form>
+
+
+
+
+ </div> </div>
+
+
+ <div class="nav-tab-bottom dropdown"> <a class=dropdown-toggle href="partner-registration">Dont have an account?</a> <div class=dropdown-menu> <a href=javascript:void(0) class=close-dropdown>&times;</a> <p> To create an account, please contact us : <br> <img alt=Phone title=Phone src="https://www.canvera.com/images/icon-phone-blue.png">1-800-419-0570 or <br> <img alt=Message title=Message src="https://www.canvera.com/images/icon-msg-blue.png">care@canvera.com </p> </div> </div> </div> <div class=tab-box-right> <div class=signin-slider> <div class=signin-item> <div class=signin-top> <img alt=signin title=signin src=https://www.canvera.com/images/signin-2.png usemap="#MapSignin1">
+    <map name=MapSignin1 id=MapSignin1>
+        <area alt="AppStore" title="AppStore" href="https://itunes.apple.com/in/app/canvera-partner/id1187884827?mt=8" shape="poly" coords="184,184,187,213,305,214,304,182" target="_blank"/>
+        <area alt="PlayStore" title="PlayStore" href="https://play.google.com/store/apps/details?id=com.canvera.photographer&hl=en" shape="poly" coords="184,235,185,264,305,265,305,234"  target="_blank"/>
+    </map> </div> </div> <div class=signin-item> <div class=signin-top> <img alt=signin title=signin src=https://www.canvera.com/images/signin-3.png usemap="#MapSignin2">
+        <map name=MapSignin2 id=MapSignin2>
+            <area alt="Download" title="Download" href="login-and-download" shape="poly" coords="104,265,103,296,225,296,226,266" />
+        </map> </div> </div> </div> </div> </div> <div class=payment-box> <div class="payment-head collapsed" data-toggle=collapse data-target=#payment-content> <h4>OTHER PAYMENT MODES</h4> <a href=javascript:void(0) class=pull-right> <img alt=arrow src="https://www.canvera.com/images/arrow-down.png"> </a> </div> <div id=payment-content class="payment-content collapse"> <div class=clearfix> <div class=col-sm-9> <ul class=payment-list> <li> <span class=payement-title> You can also pay via Cheque, DD, Cash or a Wire Transfer.</span> </li> </ul> </div> <div class=col-sm-3> <div class=text-center> <button class="btn form-btn" onclick="window.location='https://www.canvera.com/other-payment-options'">KNOW MORE</button> </div> </div> </div> </div> </div> </div> </section> </div>
+
+
+
+
+        <footer id=footer><div class=container> <h3>Contact Us</h3> <div class=row> <div class="col-sm-4 col-xs-12 footer-add"> <p><a href=mailto:care@canvera.com>Care@canvera.com</a></p> <p>1-800-419-0570</p> <!--<p>531/144, 50 Feet Ring Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka</p>--> <p># 531/144, 150 Feet Ring Road, HSR Layout 1st Sector, Agara Bengaluru (560102), Karnataka, India</p> </div> <div class="col-sm-5 col-xs-12 footer-links"> <ul> <li class=first> <a href="downloads">Downloads</a> </li> <li> <a href="delivery-time">Delivery</a> </li> <li> <a href="business-solutions-for-professional-photographer">Photographer's</a> </li> <li class=first> <a href="business-solutions-for-professional-photographer">Directory</a> </li> <li> <a href="news">News</a> </li> <li> <a href="about">About Us</a> </li> <li> <a href=https://www.canvera.com/our-team>Our Team</a> </li> <li class=first> <a href="terms-of-service">Terms of Service</a> </li> <li> <a href="design-services-terms-and-conditions">Design Services - T & C</a> </li> <li class=first> <a href="return-policy">Return Policy</a> </li> <li> <a href="view-photobook-online">View Photobook</a> </li> </ul> </div> <div class="col-sm-3 col-xs-12 footer-social"> <ul class=pull-right> <li> <a href="https://facebook.com/Canvera/" target=_blank> <img alt=facebook title=Facebook src="images/social-1.png"> </a> </li> <li> <a href="https://twitter.com/Canvera/" target=_blank> <img alt=twitter title=Twitter src="images/social-2.png"> </a> </li> <li> <a href="https://preprod.instagram.com/canveradotcom/" target=_blank> <img alt=instagram title=Instagram src="images/social-3.png"> </a> </li> <li> <a href=https://plus.google.com/+canvera target=_blank> <img alt=google title=Google src=https://www.canvera.com/images/social-4.png> </a> </li> <li> <a href=https://www.linkedin.com/company/canvera-com target=_blank> <img alt=linkedin title=Linkedin src="images/social-5.png"> </a> </li> <li> <a href=https://www.youtube.com/user/CanveraInc target=_blank> <img alt=youtube title=Youtube src="images/social-6.png"> </a> </li> <!--<li>
+          <a href="#" target="_blank">
+                <img alt="" title="" src="https://www.canvera.com/images/social-7.png">
+            </a>
+        </li>--> </ul> </div> </div> <div class=site-links> <div class=clearfix> <span class=site-link-title>Wedding Photographers</span> <ul class=site-link-href> <li>-</li> <li><a href=https://photographers.canvera.com/north/ncr/delhi target=_blank>Delhi,</a></li> <li><a href=https://photographers.canvera.com/west/maharashtra/mumbai target=_blank>Mumbai,</a></li> <li><a href=https://photographers.canvera.com/south/tamil-nadu/chennai target=_blank>Chennai,</a></li> <li><a href=https://photographers.canvera.com/east/west-bengal/kolkata target=_blank>Kolkata,</a></li> <li><a href=https://photographers.canvera.com/south/telangana/hyderabad target=_blank>Hyderabad,</a></li> <li><a href=https://photographers.canvera.com/south/karnataka/bangalore target=_blank>Bangalore</a></li> </ul> </div> <div class=clearfix> <span class=site-link-title>Top Wedding Photographers </span> <ul class=site-link-href> <li>-</li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-india>India,</a></li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-bangalore>Bangalore,</a></li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-mumbai>Mumbai,</a></li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-chennai>Chennai,</a></li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-delhi>Delhi,</a></li> <li><a href=https://photographers.canvera.com/top-wedding-photographers-in-kolkata>Kolkata</a></li> </ul> </div> <div class=clearfix> <span class=site-link-title>Photo Inspirations</span> <ul class=site-link-href> <li>-</li> <li><a href=https://photographers.canvera.com/wedding-photography-inspirations/quirky-couples target=_blank>Quirky Couples,</a></li> <li><a href=https://photographers.canvera.com/pre-wedding-photography-inspirations/dream-date-alert target=_blank>Dream date alert,</a></li> <li><a href=https://photographers.canvera.com/wedding-photography-inspirations/tears-of-joy target=_blank>Tears of joy,</a></li> <li><a href=https://photographers.canvera.com/wedding-photography-inspirations/brides-who-rock target=_blank>Brides who rock,</a></li> <li><a href=https://photographers.canvera.com/maternity-photography-inspirations/new-arrivals target=_blank>New arrivals,</a></li> <li><a href=https://photographers.canvera.com/wedding-photography-inspirations/brides-in-white target=_blank>Brides in White, </a></li> <li><a href=https://photographers.canvera.com/proposal-photography-inspirations/she-said-yes target=_blank>She said yes!</a></li> </ul> </div> </div> </div> 
+      </footer>
+        <script src="https://www.canvera.com/payment-scripts-vendor"></script>
+        <script>
+            $('.signin-slider').slick({
+              dots: true,
+              arrows: false,
+              autoplay: true,
+              autoplaySpeed: 3000
+            });
+            $('map').imageMapResize();
+
+            $(document).ready(function(){
+
+                $('#errorButtonDiv').click(function(){
+                  $('#errorMsgDiv').hide();
+                  $('#emailIdDiv').show();
+                  $('#passwordDiv').show();
+                  $('#signinButtonDiv').show();
+
+                });
+                //if errorMsgDiv exists,perform below logic
+                if($('#errorMsgDiv').length>0){
+                  $('#emailIdDiv').hide();
+                  $('#passwordDiv').hide();
+                  $('#signinButtonDiv').hide();
+                }
+            });
+        </script>
+        <script src="https://www.canvera.com/payment-scripts-main"></script>
+        <!--  Widget Code -->  
+        <script async src="https://s.tagove.com/a-7ab3d/init.js"></script>
+        <script async src="https://s.tagove.com/main.js"></script>
+        <noscript><a href="https://www.tagove.com?welcome" title="live chat software">co browsing software</a></noscript>
+        <!-- / Widget Code -->
+    </body>
+</html>
+
+
+
+
